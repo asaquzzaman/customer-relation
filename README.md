@@ -4,10 +4,8 @@ It's a simple plugin for listing the customer information. Customers will submit
 
 # Useage
 
-1. Login as an administrator.
-2. Navigate the settings menu under the tools menu from WP admin panel.
-3. An admin notice form will appear.
-4. Write your notice and save changes and check the admin notice.
+The following shortcode (in the body of a post or page) would add a customer relation form to that post or page:
+[lead_gen_form name="Name" phone_number="Phone Number" email="Email Address" budget="Desired Budget" message="Message" rows="4" cols="50" name_length=30 phone_number_length=20 email_length=30 budget_length=10 message_length=500 ]
 
 # Simple Installation
 
