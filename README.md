@@ -1,6 +1,6 @@
 # Customer: Coding Test
 
-It's a simple plugin for listing the customer information. Only the admin can change the check the customer information from admin panel dsashboard. This plugin is also compatible with multisite.
+It's a simple plugin for listing the customer information. Customers will submit their information from the front-end and the admin can check it from the WP admin panel. This plugin is also compatible with multisite.
 
 # Useage
 
