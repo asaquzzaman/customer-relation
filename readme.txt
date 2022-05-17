@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-It's a simple plugin for post the customer information. Only the admin can change the check the customer information from admin panel dsashboard. This plugin is also compatible with multisite.
+It's a simple plugin for listing the customer information. Only the admin can change the check the customer information from admin panel dsashboard. This plugin is also compatible with multisite.
 
 == Installation ==
 

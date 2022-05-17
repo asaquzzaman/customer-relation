@@ -1,6 +1,6 @@
 # Customer: Coding Test
 
-Customer Codint Test is a simple plugin for showing admin notice. Only the admin can update the notice. This plugin is also compatible with multisite.
+It's a simple plugin for listing the customer information. Only the admin can change the check the customer information from admin panel dsashboard. This plugin is also compatible with multisite.
 
 # Useage
 
@@ -11,7 +11,7 @@ Customer Codint Test is a simple plugin for showing admin notice. Only the admin
 
 # Simple Installation
 
-[Download the .zip file from here](https://github.com/asaquzzaman/customer-relation/releases/download/0.1/code-sample.zip)
+[Download the .zip file](https://github.com/asaquzzaman/customer-relation/releases/download/0.1/code-sample.zip)
 
 # Local Installation Guide
 
