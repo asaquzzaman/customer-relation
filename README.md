@@ -5,7 +5,7 @@ It's a simple plugin for listing the customer information. Customers will submit
 # Useage
 
 The following shortcode (in the body of a post or page) would add a customer relation form to that post or page:
-[lead_gen_form name="Name" phone_number="Phone Number" email="Email Address" budget="Desired Budget" message="Message" rows="4" cols="50" name_length=30 phone_number_length=20 email_length=30 budget_length=10 message_length=500 ]
+`[lead_gen_form name="Name" phone_number="Phone Number" email="Email Address" budget="Desired Budget" message="Message" rows="4" cols="50" name_length=30 phone_number_length=20 email_length=30 budget_length=10 message_length=500 ]`
 
 # Simple Installation
 
