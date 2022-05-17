@@ -1,0 +1,103 @@
+/*!
+ * style.css
+ *
+ * style sheet for customer relation.
+ */
+
+.customer-customer-form-wrap {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: .2rem;
+    position: relative;
+    padding: 1rem;
+    margin: 1rem -15px 0;
+    border: solid #f7f7f9;
+}
+
+.customer-customer-form-wrap .form-group {
+    margin-bottom: 1rem;
+}
+
+.customer-customer-form-wrap .form-group label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+
+.customer-customer-form-wrap .form-group em {
+    color: #d92626;
+}
+
+.customer-customer-form-wrap .form-group .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.customer-customer-form-wrap .form-group .text-muted {
+    color: #6c757d !important;
+    display: block;
+    margin-top: .25rem;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.customer-customer-form-wrap .submit {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.customer-customer-form-wrap .error-notice, 
+.customer-customer-form-wrap .success-notice {
+    margin: 15px 0 25px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    padding: 1px 12px;
+}
+
+.customer-customer-form-wrap .error-notice {
+    border-left-color: #dc3232;
+}
+
+.customer-customer-form-wrap .success-notice {
+    border-left-color: #8bdc32;
+}
+
+.customer-customer-form-wrap .customer-display-error {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.customer-customer-form-wrap .error-notice p,
+.customer-customer-form-wrap .success-notice p {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+}
+
+.customer-customer-form-wrap .form-group .error-field {
+    border: 1px solid #dc3232;
+}
+
+.customer-customer-form-wrap .display-none {
+    display: none;
+}
+
+.customer-customer-form-wrap .customer-display-error .cancel-error {
+    margin-left: auto;
+    line-height: 0;
+    text-decoration: none;
+    box-shadow: none;
+}

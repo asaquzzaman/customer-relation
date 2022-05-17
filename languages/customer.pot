@@ -1,0 +1,178 @@
+# Copyright (C) 2022 Asaquzzaman
+# This file is distributed under the same license as the Customer Relation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Customer Relation 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/customer\n"
+"POT-Creation-Date: 2022-01-13 05:39:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/Actions.php:82
+msgid "Add New"
+msgstr ""
+
+#: includes/Actions.php:83
+msgid "Add New Customer"
+msgstr ""
+
+#: includes/Actions.php:84
+msgid "New Customer"
+msgstr ""
+
+#: includes/Actions.php:85
+msgid "Edit Customer"
+msgstr ""
+
+#: includes/Actions.php:86
+msgid "View Customer"
+msgstr ""
+
+#: includes/Actions.php:87
+msgid "All Customers"
+msgstr ""
+
+#: includes/Actions.php:88
+msgid "Search Customers"
+msgstr ""
+
+#: includes/Actions.php:89
+msgid "Parent Customers:"
+msgstr ""
+
+#: includes/Actions.php:90
+msgid "No customers found."
+msgstr ""
+
+#: includes/Customer_Table.php:69
+msgid "Phone"
+msgstr ""
+
+#: includes/Customer_Table.php:70 includes/Meta_Boxes.php:68
+msgid "Email"
+msgstr ""
+
+#: includes/Customer_Table.php:71 includes/Meta_Boxes.php:67
+msgid "Budget"
+msgstr ""
+
+#: includes/Customer_Table.php:72
+msgid "Date"
+msgstr ""
+
+#: includes/Meta_Boxes.php:66 includes/Shortcodes/Shortcode_Form.php:47
+msgid "Phone Number"
+msgstr ""
+
+#: includes/Shortcodes/Shortcode_Form.php:46
+msgid "Name"
+msgstr ""
+
+#: includes/Shortcodes/Shortcode_Form.php:48
+msgid "Email Address"
+msgstr ""
+
+#: includes/Shortcodes/Shortcode_Form.php:49
+msgid "Desired Budget"
+msgstr ""
+
+#: includes/Shortcodes/Shortcode_Form.php:50
+msgid "Message"
+msgstr ""
+
+#: libs/messages.php:15
+msgid "Name field is required!"
+msgstr ""
+
+#: libs/messages.php:16
+msgid "Maximum character of name is less than or queal 30"
+msgstr ""
+
+#: libs/messages.php:17
+msgid "Phone number should be only numeric (0-9)"
+msgstr ""
+
+#: libs/messages.php:18
+msgid "Please insert valid email"
+msgstr ""
+
+#: libs/messages.php:19
+msgid "Budget should be only numeric number"
+msgstr ""
+
+#: libs/messages.php:20
+msgid "Data has been saved successfully"
+msgstr ""
+
+#: templates/form.php:19
+msgid "Your full name (Character length %d)"
+msgstr ""
+
+#: templates/form.php:21
+msgid "Maximum length 30 character"
+msgstr ""
+
+#: templates/form.php:35
+msgid "Your phone number (Character length %d)"
+msgstr ""
+
+#: templates/form.php:37
+msgid "Please insert only number (0-9)"
+msgstr ""
+
+#: templates/form.php:54
+msgid "Your email address (Character length %d)"
+msgstr ""
+
+#: templates/form.php:68
+msgid "Your desired budget (Character length %d)"
+msgstr ""
+
+#: templates/form.php:70
+msgid "Please type only number (digits and decimal point)"
+msgstr ""
+
+#: templates/form.php:79
+msgid "Details (Character length %d)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Customer Relation"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Shortcode that generates a form."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Asaquzzaman"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/asaquzzaman/"
+msgstr ""
+
+#: includes/Actions.php:78
+msgctxt "Post type general name"
+msgid "Customers"
+msgstr ""
+
+#: includes/Actions.php:79
+msgctxt "Post type singular name"
+msgid "Customer"
+msgstr ""
+
+#: includes/Actions.php:80
+msgctxt "Admin Menu text"
+msgid "Customers"
+msgstr ""
+
+#: includes/Actions.php:81
+msgctxt "Add New on Toolbar"
+msgid "Customer"
+msgstr ""
