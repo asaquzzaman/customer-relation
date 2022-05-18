@@ -1,0 +1,20 @@
+{
+    "name": "cutomer/relation",
+    "description": "It's a simple plugin for listing the customer information.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Asaquzzaman",
+            "email": "joy.mishu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Customer_Relation\\Includes\\": "includes/"
+        }
+    },
+    "require": {
+        "php": ">=5.6.37"
+    }
+}

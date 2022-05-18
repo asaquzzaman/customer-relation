@@ -27,7 +27,7 @@ class Shortcodes {
 		}
 
 		$shortcodes = array(
-			'lead_gen_form' => __CLASS__ . '::shortcode_form',
+			'customer_relation_form' => __CLASS__ . '::shortcode_form',
 		);
 
 		foreach ( $shortcodes as $shortcode => $function ) {

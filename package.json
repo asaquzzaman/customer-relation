@@ -1,0 +1,29 @@
+{
+  "name": "CustomerRelation",
+  "version": "0.1",
+  "description": "It's a simple plugin for listing the customer information.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "makepot": "wpvuei18n makepot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weDevsOfficial/wp-project-manager.git"
+  },
+  "author": "joy.mishu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weDevsOfficial/wp-project-manager/issues"
+  },
+  "homepage": "https://github.com/weDevsOfficial/wp-project-manager#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-contrib-clean": "^2.0.1",
+    "grunt-contrib-compress": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-text-replace": "^0.4.0"
+  }
+}

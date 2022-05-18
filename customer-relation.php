@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Customer Relation
+ * Plugin Name: Customer Relation main
  * Description: Shortcode that generates a form.
  * Author: Asaquzzaman
  * Author URI: https://profiles.wordpress.org/asaquzzaman/
