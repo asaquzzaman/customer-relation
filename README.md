@@ -17,6 +17,7 @@ Navigate to the plugin directory and run the following commands
 
 1. `git clone https://github.com/asaquzzaman/customer-relation.git <plugin-dir-name>`
 2. `cd <plugin-dir-name>`
-3. `composer install` 
-4. `composer dumpautoload -o`
-7. `Activate plugin`
+3. `npm install`
+4. `composer install` 
+5. `composer dumpautoload -o`
+6. `Activate plugin`
