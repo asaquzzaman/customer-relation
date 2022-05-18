@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "makepot": "wpvuei18n makepot"
+    "autoload": "composer dumpautoload --optimize"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-compress": "^2.0.0",
     "grunt-contrib-copy": "^1.0.0",
+    "grunt-run": "^0.8.1",
     "grunt-text-replace": "^0.4.0"
   }
 }

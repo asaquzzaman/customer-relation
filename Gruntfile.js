@@ -87,7 +87,14 @@ module.exports = function(grunt) {
             }
         },
 
-        replace: stringReplace
+        replace: stringReplace,
+
+        run: {
+            autoload:{
+                cmd: 'composer',
+                args: ['dumpautoload', '-o']
+            },
+        }
     });
 
 
@@ -96,10 +103,12 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks( 'grunt-contrib-clean' );
     grunt.loadNpmTasks( 'grunt-contrib-copy' );
     grunt.loadNpmTasks( 'grunt-contrib-compress' );
+    grunt.loadNpmTasks( 'grunt-run' );
 
     grunt.registerTask( 'release', [
         'clean',
         'replace',
+        'run',
         'copy',
         'compress'
     ]);
