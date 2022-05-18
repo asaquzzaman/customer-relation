@@ -9,7 +9,7 @@ The following shortcode (in the body of a post or page) would add a customer rel
 
 # Simple Installation
 
-[Download the .zip file](https://github.com/asaquzzaman/customer-relation/releases/download/0.1/code-sample.zip)
+[Download the .zip file](https://github.com/asaquzzaman/customer-relation/releases/download/0.1/customer-relation-v0.1.zip)
 
 # Local Installation Guide
 
